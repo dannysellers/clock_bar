@@ -1,0 +1,13 @@
+#current-time {
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	width: 150px;
+	padding: 10px;
+}
+
+#clock {
+	padding: 10px;
+	border: 1px solid #000;
+	border-radius: 50%;
+}
